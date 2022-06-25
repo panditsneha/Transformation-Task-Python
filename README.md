@@ -1,5 +1,5 @@
 # Transformation-Task-Python
-Transform the data present in ‘Sample Input’ CSV into‘Sample Output’ CSV usingPython.
+Transforming the data present in the given input file.
 
 # Task details::
 1. See comments in ‘Sample Input’ for column mapping (e.g., ItemId becomestag__id).
